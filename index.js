@@ -7,7 +7,7 @@ function bancoDeDados() {
 let dbghibli = bancoDeDados()
 
 //exibir o json inteiro:
-//console.log(dbghibli)
+console.log(dbghibli)
 
 //exibir apenas o titulo do primeiro filme:
 //console.log(dbghibli[0].title)
